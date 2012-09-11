@@ -1,10 +1,7 @@
 == Magic 8 ball exercise
 
-1. A Magic 8 ball can be shaken and will return "yes", "no", or "maybe."
-It should return them evenly (1/3 chance for each).
+1. A Magic 8 ball can be shaken and will return "yes", "no", or "maybe." It should return them evenly (1/3 chance for each).
 
 2. PlayerA will shake the magic 8 ball until she gets a clear "yes" or "no."
 
-3. PlayerB really likes the answer "yes."  He will shake the magic 8 ball up 
-to 3 times to get a "yes."  If he can't get one, he will accept whatever the 
-3rd answer is.
+3. PlayerB really likes the answer "yes."  He will shake the magic 8 ball up to 3 times to get a "yes."  If he can't get one, he will accept whatever the 3rd answer is.
