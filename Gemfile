@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+
+
 gem 'rails', '3.2.5'
 
 # Bundle edge Rails instead:
@@ -14,6 +16,8 @@ group :assets do
  end
 
 group :test, :development do
+	gem 'guard'
+	gem 'guard-rspec'
   gem "rspec-rails", "~> 2.0"
 end
 
